@@ -1,8 +1,14 @@
-# Table synthesis using VAE and GAN
-## 1. Variational Autoencoder (VAE) for Synthetic Data Generation
-Welcome to my project! This is a simple Python code that trains a special type of neural network called a Variational Autoencoder (VAE) on your data and generates new data that looks similar to your original dataset.
+# Variational Autoencoder (VAE) and Generative Adversarial Network (GAN) for Synthetic Data Generation
 
-### How to Use:
+Welcome to my project! This repository contains Python code that demonstrates how to generate synthetic data using two powerful techniques: Variational Autoencoder (VAE) and Generative Adversarial Network (GAN).
+
+## Overview:
+
+This project provides two scripts:
+1. ### 'vae_synthetic_data_generation.py':
+2. This script trains a Variational Autoencoder (VAE) on your dataset to generate synthetic data.
+3. ### "gan_synthetic_data_generation.py":
+4. This script uses a Generative Adversarial Network (GAN) to generate synthetic data that closely resembles your original dataset.
 
 #### i. Install Dependencies:
 Make sure you have Python installed on your computer. You'll also need to install a few Python packages. Don't worry, it's easy! Just open your command prompt or terminal and type: 
