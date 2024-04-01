@@ -20,5 +20,11 @@ pip install pandas numpy scikit-learn tensorflow
 - Once training is done, it will generate synthetic data.
 - The synthetic data will be saved in a file named synthetic_data.csv.
 
+### Why Use This:
+
+- Need more data for your project? Generate synthetic data easily!
+- Want to protect sensitive information in your dataset? Use synthetic data instead!
+- Curious about machine learning? This project is a great way to get started!
+
 
 
