@@ -6,6 +6,7 @@ Welcome to my project! This is a simple Python code that trains a special type o
 
 #### i. Install Dependencies:
 Make sure you have Python installed on your computer. You'll also need to install a few Python packages. Don't worry, it's easy! Just open your command prompt or terminal and type: 
+
 pip install pandas numpy scikit-learn tensorflow
 
 #### ii. Get Started:
