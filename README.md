@@ -6,9 +6,9 @@ Welcome to my project! This repository contains Python code that demonstrates ho
 
 This project provides two scripts:
 1. ### 'vae_synthetic_data_generation.py':
-2. This script trains a Variational Autoencoder (VAE) on your dataset to generate synthetic data.
-3. ### "gan_synthetic_data_generation.py":
-4. This script uses a Generative Adversarial Network (GAN) to generate synthetic data that closely resembles your original dataset.
+-  This script trains a Variational Autoencoder (VAE) on your dataset to generate synthetic data.
+2. ### "gan_synthetic_data_generation.py":
+-  This script uses a Generative Adversarial Network (GAN) to generate synthetic data that closely resembles your original dataset.
 
 #### i. Install Dependencies:
 Make sure you have Python installed on your computer. You'll also need to install a few Python packages. Don't worry, it's easy! Just open your command prompt or terminal and type: 
