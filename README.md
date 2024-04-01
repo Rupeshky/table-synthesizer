@@ -26,4 +26,16 @@ pip install pandas numpy scikit-learn tensorflow ctgan
 - Open the script and follow the instructions provided in the comments to customize it for your dataset.
 - Run the script by double-clicking on it or typing python gan_synthetic_data_generation.py in your command prompt or terminal.
 
+## What Happens Next:
+
+- Each script will train its respective model on your data.
+- Once training is done, it will generate synthetic data that looks similar to your original dataset.
+- The synthetic data will be saved in a CSV file (synthetic_data.csv for VAE and gans_synthetic.csv for GAN) in the same folder.
+
+## Why Use This:
+
+- Need more data for your project? Generate synthetic data easily!
+- Want to protect sensitive information in your dataset? Use synthetic data instead!
+- Want to experiment with advanced machine learning techniques? This project is a great way to get started!
+
 
